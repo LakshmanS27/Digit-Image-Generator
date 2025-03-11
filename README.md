@@ -57,7 +57,7 @@ This script loads the trained generator and generates a set of fake MNIST images
 ## Results
 After training, the generator is capable of producing realistic-looking handwritten digits. The images below show some examples of generated digits:
 
-![Sample Generated Images]
+
 ![Fig1](https://github.com/user-attachments/assets/41e821cd-4ce7-472d-8883-4b730ea16269)
 
 ## License
